@@ -14,7 +14,7 @@ Loot boxes can also be directly given to players for use in donation systems and
 
 ### Commands
 
-- /unbox `<box id>` - Unbox a loot box.
+- /unbox `<box>` - Unbox a loot box.
   Requires the `DropBoxes:commands.unbox` permission.
 	
 - /boxes - View your loot boxes.
